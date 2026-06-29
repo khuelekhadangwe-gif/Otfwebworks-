@@ -1,0 +1,6 @@
+{
+  "name": "OTF WebWorks",
+  "description": "Professional web design and development landing page and interactive project cost estimator for small businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
