@@ -62,7 +62,7 @@ export default function App() {
       num: '04',
       title: 'Ongoing Management (R200 every 2 months)',
       days: 'Step 4',
-      desc: 'This is what most clients love. I handle all updates, security, performance, SEO tweaks, and minor changes for you. You just WhatsApp or email me what you need (e.g. “update prices” or “add a new service”). I do it and redeploy — no hassle.',
+      desc: 'This is what most clients love. We handle all updates, security, performance, SEO tweaks, and minor changes for you. You just WhatsApp or email us what you need (e.g. “update prices” or “add a new service”). We do it and redeploy — no hassle.',
       icon: 'settings',
     },
   ];
@@ -70,8 +70,8 @@ export default function App() {
   return (
     <div className="min-h-screen flex flex-col font-sans select-none text-slate-700 bg-[#fcfcfe]">
       <Helmet 
-        title="Baston — Handcrafted Custom Web Design & WebWorks" 
-        description="Premium, fast, and high-converting custom-coded websites built from scratch using React, Vite, and Tailwind CSS by Baston. Stand out dynamically in South Africa."
+        title="OTF WEBWORKS — Handcrafted Custom Web Design" 
+        description="Premium, fast, and high-converting custom-coded websites built from scratch using React, Vite, and Tailwind CSS by OTF WEBWORKS. Stand out dynamically in South Africa."
       />
       
       {/* Sticky Glass Header Navigation */}
@@ -400,7 +400,7 @@ export default function App() {
                 Limpopo, South Africa
               </span>
               <a href="#contact" className="hover:text-white flex items-center gap-0.5">
-                Baston Direct Inbound <ArrowUpRight className="h-3 w-3" />
+                OTF WEBWORKS Direct Inbound <ArrowUpRight className="h-3 w-3" />
               </a>
             </div>
           </div>

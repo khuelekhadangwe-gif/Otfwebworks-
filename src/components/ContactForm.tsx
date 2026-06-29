@@ -51,7 +51,7 @@ export default function ContactForm({
   const handleApplyPreset = (preset: string) => {
     setFormData(prev => ({
       ...prev,
-      message: `Hi Baston, I'm reaching out to help me: ${preset}.\n\n` + (prev.message ? prev.message : '')
+      message: `Hi OTF WEBWORKS, I'm reaching out to help me: ${preset}.\n\n` + (prev.message ? prev.message : '')
     }));
   };
 
@@ -106,7 +106,7 @@ export default function ContactForm({
 
           A full, high-fidelity project scope schedule and interactive Figma wireframe draft will be delivered to you at "${clientEmail}" in less than 3 hours (before standard 24h limits!). 
 
-          Let's design and code something beautiful together. Talk soon! — Baston, OTF WebWorks
+          Let's design and code something beautiful together. Talk soon! — OTF WEBWORKS
         `;
         setSuccessResponse(customReply);
 
@@ -114,7 +114,7 @@ export default function ContactForm({
         const mailtoLink = `mailto:otfwebworks@gmail.com?subject=${encodeURIComponent(
           `Inquiry: Custom Project Spec for ${biz}`
         )}&body=${encodeURIComponent(
-          `Hi Baston,
+          `Hi OTF WEBWORKS,
 
 I would like to inquire about a custom project specification for my business.
 
@@ -175,23 +175,23 @@ Inquiry submitted via OTF WebWorks`
               </div>
             </div>
 
-            {/* Baston's responsive quotes badge */}
+            {/* OTF WEBWORKS' responsive quotes badge */}
             <div className="p-6 rounded-[1.5rem] bg-white border border-slate-100 space-y-4 shadow-sm">
               <div className="flex items-center gap-3">
                 <span className="h-10 w-10 rounded-full border-2 border-emerald-500 overflow-hidden bg-slate-100">
                   <img 
                     src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=facearea&facepad=2&w=120"
-                    alt="Baston" 
+                    alt="OTF WEBWORKS" 
                     className="h-full w-full object-cover"
                   />
                 </span>
                 <div>
-                  <h4 className="font-display font-bold text-sm text-slate-900">Baston — Lead Web Architect</h4>
-                  <p className="text-xs text-slate-500">OTF WebWorks Lead Coder</p>
+                  <h4 className="font-display font-bold text-sm text-slate-900">OTF WEBWORKS — Lead Web Architects</h4>
+                  <p className="text-xs text-slate-500">OTF WEBWORKS Development Team</p>
                 </div>
               </div>
               <blockquote className="text-xs text-slate-600 leading-relaxed italic">
-                "I don't play telemarketing games or send boilerplate templates. When you inquire, I personally outline a real wireframe preview and performance budget for your layout."
+                "We don't play telemarketing games or send boilerplate templates. When you inquire, we outline a real wireframe preview and performance budget for your layout."
               </blockquote>
               <div className="pt-3 border-t border-slate-100 flex flex-col sm:flex-row gap-x-4 gap-y-1 text-xs text-slate-500">
                 <span className="flex items-center gap-1">

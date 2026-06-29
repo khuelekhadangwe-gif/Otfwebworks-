@@ -13,7 +13,7 @@ interface HelmetProps {
 
 export default function Helmet({
   title,
-  description = "Get a modern, fast, and high-converting custom website coded from scratch by Baston. Transform your online presence today.",
+  description = "Get a modern, fast, and high-converting custom website coded from scratch by OTF WEBWORKS. Transform your online presence today.",
   image = "/og-image.png",
   url = window.location.href,
   type = "website"

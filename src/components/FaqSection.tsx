@@ -89,7 +89,7 @@ export default function FaqSection() {
             href="#contact"
             className="btn-press bg-navy-900 text-white font-bold text-xs px-4 py-2.5 rounded-xl hover:bg-navy-950 transition shadow-soft flex-shrink-0"
           >
-            Ask Baston Directly
+            Ask OTF WEBWORKS Directly
           </a>
         </div>
 

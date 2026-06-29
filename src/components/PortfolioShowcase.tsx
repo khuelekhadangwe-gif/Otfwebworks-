@@ -360,7 +360,7 @@ export default function PortfolioShowcase({}: PortfolioShowcaseProps) {
                     <div className="p-6 rounded-[1.5rem] bg-emerald-50/60 border border-emerald-100/80 space-y-2">
                       <span className="font-display font-bold text-emerald-800 text-sm flex items-center gap-1.5">
                         <CheckCircle className="h-4 w-4 text-emerald-600" />
-                        Baston's Handcrafted Code Solution
+                        OTF WEBWORKS' Handcrafted Code Solution
                       </span>
                       <p className="text-slate-700 text-sm leading-relaxed">
                         {selectedProject.solution}

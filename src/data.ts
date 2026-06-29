@@ -95,7 +95,7 @@ export const TESTIMONIALS: TestimonialItem[] = [
     role: 'Senior Partner',
     company: 'Justice Attorneys',
     projectType: 'Corporate & Law',
-    text: 'Baston and the OTF WebWorks team built an incredible, premium website for our law firm. Our consultation bookings in Polokwane increased by 75% in the first month alone, and the site loads instantly. Highly recommended!',
+    text: 'The OTF WEBWORKS team built an incredible, premium website for our law firm. Our consultation bookings in Polokwane increased by 75% in the first month alone, and the site loads instantly. Highly recommended!',
     image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=300&q=80',
     rating: 5,
   },

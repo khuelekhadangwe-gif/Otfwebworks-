@@ -97,7 +97,7 @@ export default function PolicyModal({ isOpen, initialType, onClose }: PolicyModa
                 <div>
                   <h4 className="font-bold text-slate-900 dark:text-white text-sm">POPI Act Compliance Statement</h4>
                   <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
-                    In compliance with the Protection of Personal Information Act (POPIA), Act No. 4 of 2013 of South Africa, Baston and OTF WebWorks ensure total transparency and data security.
+                    In compliance with the Protection of Personal Information Act (POPIA), Act No. 4 of 2013 of South Africa, OTF WEBWORKS ensures total transparency and data security.
                   </p>
                 </div>
               </div>
